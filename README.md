@@ -24,7 +24,7 @@ Julia v1.6.7, Juptyer Notebook
 
 ## Trajectory Generation
 The majority of the necessary code is located [Monkey_
-Bar_Controls_Bar_to_Bar](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/Monkey_Bar_Controls_Bar_to_Bar.ipynb). For swing up trajecotries alone, reference [Simplified_Monkey_Bar_Controls](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/Simplified_Monkey_Bar_Controls.ipynb). A full derivation of a three link Monkey Bar Robot is derived in [MonkeyBotDynamics](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/MonkeyBotDynamics.ipynb).
+Bar_Controls_Bar_to_Bar](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/Monkey_Bar_Controls_Bar_to_Bar.ipynb). For swing up trajecotries alone, reference [Simplified_Monkey_Bar_Controls](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/Simplified_Monkey_Bar_Controls.ipynb). A full derivation of a three link Monkey Bar Robot is derived in [MonkeyBotDynamics](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/MonkeyBotDynamics.ipynb). Run each jupyter notebook cell sequentially as described.
 
 ## Performance
 ![](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/tmp.gif)
