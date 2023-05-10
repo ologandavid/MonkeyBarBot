@@ -27,6 +27,6 @@ The majority of the necessary code is located
 
 ## Performance
 ![](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/tmp.gif)
-# Visualized Solved Trajectory using Julia Plot
+### Visualized Solved Trajectory using Julia Plot
 
 
