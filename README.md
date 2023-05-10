@@ -4,7 +4,7 @@ Implementation of a Hybrid Direct Collocation (DIRCOL) based Trajectory Optimiza
 [[paper]](https://github.com/ologandavid/MonkeyBarBot/blob/main/Documents/FinalReport.pdf)
 
 **This repo supports:**
-* DIRCOL Trajecotry Solving for a Two Link Robot using iPOPT Solver
+* DIRCOL Trajectory Solving for a Two Link Robot using iPOPT Solver
 * visualization using Julia Plot
 * visualization using MeshCat Libraries
 
