@@ -28,6 +28,7 @@ Bar_Controls_Bar_to_Bar](https://github.com/ologandavid/MonkeyBarBot/blob/main/M
 
 ## Performance
 ![](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/tmp.gif)
+
 Visualized Solved Trajectory using Julia Plot
 
 
