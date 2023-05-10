@@ -8,7 +8,7 @@ Implementation of a Hybrid Direct Collocation (DIRCOL) based Trajectory Optimiza
 * visualization using Julia Plot
 * visualization using MeshCat Libraries
 
-## Introduction
+## Abstract
 In this repository, we propose a trajectory planning technique that mimics a Brachiation robot swinging from bar to bar. Using a hybrid system direct collocation (DIRCOL) trajectory optimization, we successfully demonstrate the robot swinging up from a dead hang to catch the first bar and swing to the subsequent bars. This DIRCOL technique was tested on various mass distributions in the robot as well as different bar separation distances to understand the behavior with varying parameters. In addition, we show the importance of a free time setup on the cost function in producing consistent feasible trajectories using this DIRCOL technique.
 
 ## Dependencies
@@ -27,6 +27,7 @@ The majority of the necessary code is located
 
 ## Performance
 ![](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/tmp.gif)
+
 Solved Trajectory using Julia Plot
 
 
