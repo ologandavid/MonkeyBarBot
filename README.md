@@ -31,6 +31,8 @@ Bar_Controls_Bar_to_Bar](https://github.com/ologandavid/MonkeyBarBot/blob/main/M
 
 Visualized Solved Trajectory using Julia Plot
 
+https://github.com/ologandavid/MonkeyBarBot/assets/66838084/70d634bd-3184-4771-bcf7-0e997be53fd6
+
 [![]](https://github.com/ologandavid/MonkeyBarBot/blob/main/MonkeyBarBot/output1.mp4)
 
 Visualized Solved Trajectory using Meshcat
